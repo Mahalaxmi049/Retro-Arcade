@@ -30,12 +30,13 @@ retro-arcade/
 ---
 
 ## 👥 Team Members
-- [**Your Name**](https://www.linkedin.com/in/your-profile-link)  
-- [**Teammate 1**](https://www.linkedin.com/in/teammate1-link)  
-- [**Teammate 2**](https://www.linkedin.com/in/teammate2-link)  
-- [**Teammate 3**](https://www.linkedin.com/in/teammate3-link)
+- [**Mahalaxmi Shanbhag**](https://www.linkedin.com/in/mahalaxmi-shanbhag-3b56b4365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- [**Anita Kamat**](https://www.linkedin.com/in/anita-kamat-b5ab12365)  
+- [**Kavana Vaidya**](https://www.linkedin.com/in/kavana-vaidya-a452942a4)  
+- [**Abdul Rehman Sayed**](https://www.linkedin.com/in/abdul-rehman-sayed-0092942a4)
 
 > *Special thanks to everyone on the team for their creativity and hard work in bringing this retro arcade to life during Buildathon 2025!* 🎉
+
 
 ---
 
